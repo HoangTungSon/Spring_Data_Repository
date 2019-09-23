@@ -19,12 +19,7 @@
     <option name="HIDDEN_KINDS">
       <set />
     </option>
-    <expand>
-      <path>
-        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
-        <item name="source@localhost" type="feb32156:DbDataSourceImpl" />
-      </path>
-    </expand>
+    <expand />
     <select />
   </component>
   <component name="ExternalProjectsData">
@@ -183,7 +178,11 @@
       <updated>1568604071806</updated>
       <workItem from="1568604083136" duration="2239000" />
       <workItem from="1568608725546" duration="1121000" />
-      <workItem from="1568622560327" duration="2163000" />
+      <workItem from="1568622560327" duration="2976000" />
+      <workItem from="1568690139290" duration="2738000" />
+      <workItem from="1568693728374" duration="1267000" />
+      <workItem from="1568859398266" duration="4842000" />
+      <workItem from="1569222033468" duration="881000" />
     </task>
     <servers />
   </component>
